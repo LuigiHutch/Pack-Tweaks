@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "pack_tweaks:ore_poor_diamond"
-    }
-}
