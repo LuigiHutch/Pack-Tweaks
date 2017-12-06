@@ -1,0 +1,51 @@
+{
+  "blocks": [
+    {
+      "type": "block:simple",
+      "entries": [
+        {
+            "id": "ore",
+            "creativeTab": "buildingBlocks",
+            "material": "rock",
+            "subtypes": [0, 1, 2, 3, 4],
+            "itemModel":
+            {
+                "0": "packtweaks:ore_poor_coal",
+                "1": "packtweaks:ore_poor_lapis",
+                "2": "packtweaks:ore_poor_redstone",
+                "3": "packtweaks:ore_poor_diamond",
+                "4": "packtweaks:ore_poor_emerald"
+            },
+            "drop":
+            {
+                "0": {"item": "minecraft:coal", "amount": 1},
+                "1": {"item": "minecraft:dye@4", "amount": [1, 3]},
+                "2": {"item": "minecraft:redstone", "amount": [1, 2]},
+                "3": {"item": "minecraft:diamond", "amount": 1},
+                "4": {"item": "minecraft:emerald", "amount": 1}
+            },
+            "harvestLevel":
+            {
+                "0": 0,
+                "1": 1,
+                "2": 2,
+                "3": 2,
+                "4": 2
+            },
+            "expDrop":
+            {
+                "0": [0, 1],
+                "1": [1, 2],
+                "2": [0, 2],
+                "3": [1, 3],
+                "4": [1, 3]
+            },
+            "harvestTool": "pickaxe",
+            "resistance": 15,
+            "hardness": 3,
+            "soundType": "stone"
+                }
+            ]
+        }
+    ]
+}
