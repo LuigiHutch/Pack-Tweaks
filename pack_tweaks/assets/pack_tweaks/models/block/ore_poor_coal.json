@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "pack_tweaks:blocks/ore_poor_coal"
+    }
+}

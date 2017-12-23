@@ -1,17 +1,9 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "pack_tweaks:ore"
-  },
-  "variants": {
-    "normal": [{}],
-    "inventory": [{"transform": "forge:default-block"}],
-    "variant": {
-      "subtype=subtype0": {"textures": {"stone": "blocks/stone", "ore": "pack_tweaks:blocks/ore_poor_coal"}},
-      "subtype=subtype1": {"textures": {"stone": "blocks/stone", "ore": "pack_tweaks:blocks/ore_poor_lapis"}},
-      "subtype=subtype2": {"textures": {"stone": "blocks/stone", "ore": "pack_tweaks:blocks/ore_poor_redstone"}},
-      "subtype=subtype3": {"textures": {"stone": "blocks/stone", "ore": "pack_tweaks:blocks/ore_poor_diamond"}},
-      "subtype=subtype4": {"textures": {"stone": "blocks/stone", "ore": "pack_tweaks:blocks/ore_poor_emerald"}}
+    "variants": {
+        "subtype=subtype0": { "model": "pack_tweaks:ore_poor_coal" },
+        "subtype=subtype1": { "model": "pack_tweaks:ore_poor_lapis" },
+        "subtype=subtype2": { "model": "pack_tweaks:ore_poor_redstone" },
+        "subtype=subtype3": { "model": "pack_tweaks:ore_poor_diamond" },
+        "subtype=subtype4": { "model": "pack_tweaks:ore_poor_emerald" }
     }
-  }
 }

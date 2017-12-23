@@ -8,7 +8,14 @@
             "creativeTab": "buildingBlocks",
             "material": "rock",
             "subtypes": [0, 1, 2, 3, 4],
-            "itemModel": "packtweaks:ore",
+            "itemModel": 
+            {
+                "0": "pack_tweaks:ore_poor_coal",
+                "1": "pack_tweaks:ore_poor_lapis",
+                "2": "pack_tweaks:ore_poor_redstone",
+                "3": "pack_tweaks:ore_poor_diamond",
+                "4": "pack_tweaks:ore_poor_emerald"
+            },
             "drop":
             {
                 "0": {"item": "minecraft:coal", "amount": 1},
