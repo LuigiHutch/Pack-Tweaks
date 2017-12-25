@@ -2,6 +2,12 @@
   "content": [
     {
       "file": "blocks.json"
+    },
+    {
+      "file": "items.json"
+    },
+    {
+      "file": "recipes.json"
     }
   ]
 }

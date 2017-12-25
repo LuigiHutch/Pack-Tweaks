@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "type": "item:simple",
+      "entries": [
+        {
+            "id": "chunk",
+            "subtypes": [0, 1, 2],
+            "creativeTab": "misc",
+            "model": 
+                {
+                "0": "pack_tweaks:chunk_coal",
+                "1": "pack_tweaks:chunk_diamond",
+                "2": "pack_tweaks:chunk_emerald"
+                    },
+            "burnTime": { "0": 20}
+                }
+            ]
+        }
+    ]
+}

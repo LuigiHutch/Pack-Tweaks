@@ -3,3 +3,7 @@ tile.pack_tweaks.ore.1.name=Poor Lapis Ore
 tile.pack_tweaks.ore.2.name=Poor Redstone Ore
 tile.pack_tweaks.ore.3.name=Poor Diamond Ore
 tile.pack_tweaks.ore.4.name=Poor Emerald Ore
+
+item.pack_tweaks.chunk.0.name=Coal Chunk
+item.pack_tweaks.chunk.1.name=Diamond Chunk
+item.pack_tweaks.chunk.2.name=Emerald Chunk

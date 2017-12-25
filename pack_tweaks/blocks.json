@@ -18,11 +18,11 @@
             },
             "drop":
             {
-                "0": {"item": "minecraft:coal", "amount": 1},
+                "0": {"item": "pack_tweaks:chunk@0", "amount": 1},
                 "1": {"item": "minecraft:dye@4", "amount": [1, 3]},
                 "2": {"item": "minecraft:redstone", "amount": [1, 2]},
-                "3": {"item": "minecraft:diamond", "amount": 1},
-                "4": {"item": "minecraft:emerald", "amount": 1}
+                "3": {"item": "pack_tweaks:chunk@1", "amount": 1},
+                "4": {"item": "pack_tweaks:chunk@2", "amount": 1}
             },
             "harvestLevel":
             {
